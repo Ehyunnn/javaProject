@@ -1,0 +1,3 @@
+[{"name":"kim1","kor":90,"eng":80,"math":70},
+{"name":"kim2","kor":90,"eng":80,"math":70},
+{"name":"kim3","kor":90,"eng":80,"math":70}]
